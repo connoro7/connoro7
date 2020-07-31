@@ -81,6 +81,10 @@
 ### Latest Blog Posts - ![Blog Post Updates](https://github.com/connoro7/connoro7/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 <!-- BLOG-POST-LIST:START -->
+- [The Fetch API](https://dev.to/connoro7/the-fetch-api-e12)
+- [ES6 Promises](https://dev.to/connoro7/es6-promises-1ofo)
+- [JS Arrow Functions](https://dev.to/connoro7/js-arrow-functions-2i9k)
+- [8 Basic JavaScript Array Methods](https://dev.to/connoro7/8-basic-javascript-array-methods-5bm3)
 - [A Crash-Course in R](https://dev.to/connoro7/a-crash-course-in-r-3f3e)
 - [CSS Variables Quick Reference](https://dev.to/connoro7/css-variables-quick-reference-5d4m)
 - [CSS One Liners](https://dev.to/connoro7/css-one-liners-1pfo)

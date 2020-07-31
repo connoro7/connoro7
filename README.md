@@ -79,12 +79,15 @@
 ---
 
 ### Latest Blog Posts
+![Blog Post Updates](https://github.com/connoro7/connoro7/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 <!-- BLOG-POST-LIST:START -->
 - [A Crash-Course in R](https://dev.to/connoro7/a-crash-course-in-r-3f3e)
 - [CSS Variables Quick Reference](https://dev.to/connoro7/css-variables-quick-reference-5d4m)
 - [CSS One Liners](https://dev.to/connoro7/css-one-liners-1pfo)
 <!-- BLOG-POST-LIST:END -->
+
+![Latest blog post workflow](https://github.com/connoro7/connoro7/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 [email]: connor@codewithconnor.com
 [website]: https://connoro7.github.io/codewithconnor/

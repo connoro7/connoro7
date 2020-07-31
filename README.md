@@ -81,6 +81,7 @@
 ### Latest Blog Posts ![Blog Post Updates](https://github.com/connoro7/connoro7/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 <!-- BLOG-POST-LIST:START -->
+- [`wget` God Mode](https://dev.to/connoro7/wget-god-mode-441f)
 - [Regular Expressions in 1 Minute](https://dev.to/connoro7/regular-expressions-in-1-minute-57f5)
 - [Hosting an Application on Heroku in 7 Steps](https://dev.to/connoro7/hosting-an-application-on-heroku-in-7-steps-3h9k)
 - [Merging Local Git Branches](https://dev.to/connoro7/merging-local-git-branches-4bc5)
@@ -90,7 +91,6 @@
 - [REST APIs & HTTP Requests](https://dev.to/connoro7/rest-apis-http-requests-2efl)
 - [Intro to Ajax & XHR](https://dev.to/connoro7/intro-to-ajax-xhr-5g30)
 - [Github Contributing.md Markdown Template](https://dev.to/connoro7/github-contributing-md-markdown-template-1h6k)
-- [How to Create and Use Bash Scripts](https://dev.to/connoro7/how-to-create-and-use-bash-scripts-162l)
 <!-- BLOG-POST-LIST:END -->
 
 [email]: connor@codewithconnor.com

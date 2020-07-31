@@ -81,6 +81,8 @@
 ### Latest Blog Posts ![Blog Post Updates](https://github.com/connoro7/connoro7/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Create and Use Bash Scripts](https://dev.to/connoro7/how-to-create-and-use-bash-scripts-162l)
+- [Git Basics](https://dev.to/connoro7/git-basics-5el1)
 - [The Fetch API](https://dev.to/connoro7/the-fetch-api-e12)
 - [ES6 Promises](https://dev.to/connoro7/es6-promises-1ofo)
 - [JS Arrow Functions](https://dev.to/connoro7/js-arrow-functions-2i9k)

@@ -1,6 +1,6 @@
 ### Hey there! I'm Connor (aka [connoro7](website)) 👋
 
-## I'm a physicist, developer, and
+## I'm a physicist by education, developer by trade, and adventurer by passion!
 
 - 🍌 I'm currently working on several [personal projects][github-repos]!
 - 🌱 I'm currently learning how to build and maintain my own homelab for development, IoT experimentation, and data storage purposes!
@@ -12,6 +12,8 @@
 
 ### Connect with me here:
 
+
+[<img align="left" alt="connor@codewithconnor.com" width="35px" src="https://simpleicons.org/icons/gmail.svg" />][email]
 [<img align="left" alt="codewithconnor.com" width="35px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="connor-dillon | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="_connorDillon | Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -84,6 +86,7 @@
 - [CSS One Liners](https://dev.to/connoro7/css-one-liners-1pfo)
 <!-- BLOG-POST-LIST:END -->
 
+[email]: connor@codewithconnor.com
 [website]: https://connoro7.github.io/codewithconnor/
 [twitter]: https://twitter.com/_connorDillon
 [instagram]: https://instagram.com/_connor_dillon

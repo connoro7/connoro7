@@ -1,4 +1,4 @@
-### Hey there! I'm Connor (aka [connoro7](website)) 👋
+### Hey there! I'm Connor (aka [connoro7][github]) 👋
 
 ## I'm a physicist by education, developer by trade, and adventurer by passion!
 
@@ -88,6 +88,7 @@
 
 [email]: connor@codewithconnor.com
 [website]: https://connoro7.github.io/codewithconnor/
+[github]: https://github.com/connoro7
 [twitter]: https://twitter.com/_connorDillon
 [instagram]: https://instagram.com/_connor_dillon
 [linkedin]: https://www.linkedin.com/in/connor-dillon/

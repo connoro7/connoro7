@@ -87,8 +87,6 @@
 - [CSS One Liners](https://dev.to/connoro7/css-one-liners-1pfo)
 <!-- BLOG-POST-LIST:END -->
 
-![Latest blog post workflow](https://github.com/connoro7/connoro7/workflows/Latest%20blog%20post%20workflow/badge.svg)
-
 [email]: connor@codewithconnor.com
 [website]: https://connoro7.github.io/codewithconnor/
 [github]: https://github.com/connoro7

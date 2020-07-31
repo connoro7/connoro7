@@ -78,8 +78,7 @@
 
 ---
 
-### Latest Blog Posts
-![Blog Post Updates](https://github.com/connoro7/connoro7/workflows/Latest%20blog%20post%20workflow/badge.svg)
+### Latest Blog Posts - ![Blog Post Updates](https://github.com/connoro7/connoro7/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 <!-- BLOG-POST-LIST:START -->
 - [A Crash-Course in R](https://dev.to/connoro7/a-crash-course-in-r-3f3e)

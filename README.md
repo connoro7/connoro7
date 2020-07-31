@@ -81,15 +81,16 @@
 ### Latest Blog Posts ![Blog Post Updates](https://github.com/connoro7/connoro7/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 <!-- BLOG-POST-LIST:START -->
+- [Regular Expressions in 1 Minute](https://dev.to/connoro7/regular-expressions-in-1-minute-57f5)
+- [Hosting an Application on Heroku in 7 Steps](https://dev.to/connoro7/hosting-an-application-on-heroku-in-7-steps-3h9k)
+- [Merging Local Git Branches](https://dev.to/connoro7/merging-local-git-branches-4bc5)
+- [Error Handling With Fetch](https://dev.to/connoro7/error-handling-with-fetch-1caj)
+- [Debugging Pattern: "ControllerID"](https://dev.to/connoro7/debugging-pattern-controllerid-49nl)
+- [Sass Setup and Basic Use](https://dev.to/connoro7/sass-setup-and-basic-use-2830)
+- [REST APIs & HTTP Requests](https://dev.to/connoro7/rest-apis-http-requests-2efl)
+- [Intro to Ajax & XHR](https://dev.to/connoro7/intro-to-ajax-xhr-5g30)
+- [Github Contributing.md Markdown Template](https://dev.to/connoro7/github-contributing-md-markdown-template-1h6k)
 - [How to Create and Use Bash Scripts](https://dev.to/connoro7/how-to-create-and-use-bash-scripts-162l)
-- [Git Basics](https://dev.to/connoro7/git-basics-5el1)
-- [The Fetch API](https://dev.to/connoro7/the-fetch-api-e12)
-- [ES6 Promises](https://dev.to/connoro7/es6-promises-1ofo)
-- [JS Arrow Functions](https://dev.to/connoro7/js-arrow-functions-2i9k)
-- [8 Basic JavaScript Array Methods](https://dev.to/connoro7/8-basic-javascript-array-methods-5bm3)
-- [A Crash-Course in R](https://dev.to/connoro7/a-crash-course-in-r-3f3e)
-- [CSS Variables Quick Reference](https://dev.to/connoro7/css-variables-quick-reference-5d4m)
-- [CSS One Liners](https://dev.to/connoro7/css-one-liners-1pfo)
 <!-- BLOG-POST-LIST:END -->
 
 [email]: connor@codewithconnor.com

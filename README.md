@@ -6,14 +6,13 @@
 - 🌱 I'm currently learning how to build and maintain my own homelab for development, IoT experimentation, and data storage purposes!
 - 🎨 I'm looking to collaborate with other content creators.
 - 🏁 2020 Goals: Join a fast-paced and ambitious dev team!
-- 🏆 Fun fact: I'm a competitive weightlifter, plant dad, and a former physics teacher.
+- 🏆 Fun facts: I'm a competitive weightlifter, plant dad, and a former physics teacher.
 
 ---
 
 ### Connect with me here:
 
-
-[<img align="left" alt="connor@codewithconnor.com" width="35px" src="https://simpleicons.org/icons/gmail.svg" />][email]
+[<img align="left" alt="connor@codewithconnor.com" width="35px" src="https://simpleicons.org/icons/gmail.svg" />](mailto:connor@codewithconnor.com)
 [<img align="left" alt="codewithconnor.com" width="35px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="connor-dillon | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="_connorDillon | Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]

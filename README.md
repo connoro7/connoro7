@@ -84,6 +84,8 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS Variables Quick Reference](https://dev.to/connoro7/css-variables-quick-reference-5d4m)
+- [CSS One Liners](https://dev.to/connoro7/css-one-liners-1pfo)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://connoro7.github.io/codewithconnor/

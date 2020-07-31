@@ -81,6 +81,7 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Crash-Course in R](https://dev.to/connoro7/a-crash-course-in-r-3f3e)
 - [CSS Variables Quick Reference](https://dev.to/connoro7/css-variables-quick-reference-5d4m)
 - [CSS One Liners](https://dev.to/connoro7/css-one-liners-1pfo)
 <!-- BLOG-POST-LIST:END -->

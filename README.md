@@ -2,7 +2,7 @@
 
 ## I'm a physicist by education, developer by trade, and adventurer by passion!
 
-- 🍌 I'm currently working on several [personal projects][github-repos]!
+- 🍌 I'm currently working on several [personal projects][github-repos]! (The fun ones are still a secret through, sorry!)
 - 🌱 I'm currently learning how to build and maintain my own homelab for development, IoT experimentation, and data storage purposes!
 - 🎨 I'm looking to collaborate with other content creators.
 - 🏁 2020 Goals: Join a fast-paced and ambitious dev team!
@@ -78,7 +78,7 @@
 
 ---
 
-### Latest Blog Posts - ![Blog Post Updates](https://github.com/connoro7/connoro7/workflows/Latest%20blog%20post%20workflow/badge.svg)
+### Latest Blog Posts ![Blog Post Updates](https://github.com/connoro7/connoro7/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 <!-- BLOG-POST-LIST:START -->
 - [The Fetch API](https://dev.to/connoro7/the-fetch-api-e12)

@@ -46,7 +46,7 @@
 [<img align="left" style="padding: 10px;" alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />]([placeholder])
 [<img align="left" style="padding: 10px;" alt="MongoDB" width="26px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />]([placeholder])
 [<img align="left" style="padding: 10px;" alt="Heroku" width="26px" src="https://cdn.svgporn.com/logos/heroku-icon.svg" />]([placeholder])
-[<img align="left" style="padding: 10px;" alt="Wordpress" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />]([placeholder])
+<!--[<img align="left" style="padding: 10px;" alt="Wordpress" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />]([placeholder])-->
 [<img align="left" style="padding: 10px;" alt="Visual Studio Code" width="26px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">]([placeholder])
 [<img align="left" style="padding: 10px;" alt="vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />]([placeholder])
 [<img align="left" style="padding: 10px;" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />]([placeholder])
@@ -59,10 +59,10 @@
 [<img align="left" style="padding: 10px;" alt="Debian" width="26px" src="https://cdn.svgporn.com/logos/debian.svg" />]([placeholder])
 [<img align="left" style="padding: 10px;" alt="Raspbian" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />]([placeholder])
 [<img align="left" style="padding: 10px;" alt="OAuth" width="26px" src="https://cdn.svgporn.com/logos/oauth.svg" />]([placeholder])
-[<img align="left" style="padding: 10px;" alt="Slack" width="26px" src="https://cdn.svgporn.com/logos/slack-icon.svg" />]([placeholder])
-[<img align="left" style="padding: 10px;" alt="Trello" width="26px" src="https://cdn.svgporn.com/logos/trello.svg" />]([placeholder])
-[<img align="left" style="padding: 10px;" alt="Wakatime" width="26px" src="https://cdn.svgporn.com/logos/wakatime.svg" />]([placeholder])
-[<img align="left" style="padding: 10px;" alt="r" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />]([placeholder])
+<!--[<img align="left" style="padding: 10px;" alt="Slack" width="26px" src="https://cdn.svgporn.com/logos/slack-icon.svg" />]([placeholder])-->
+<!--[<img align="left" style="padding: 10px;" alt="Trello" width="26px" src="https://cdn.svgporn.com/logos/trello.svg" />]([placeholder])-->
+<!--[<img align="left" style="padding: 10px;" alt="Wakatime" width="26px" src="https://cdn.svgporn.com/logos/wakatime.svg" />]([placeholder])-->
+[<img align="left" style="padding: 10px;" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />]([placeholder])
 
 <br>
 <br>

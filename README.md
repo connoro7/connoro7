@@ -2,11 +2,11 @@
 
 ## I'm a physicist by education, developer by trade, and adventurer by passion!
 
-- 🍌 I'm currently working on several [personal projects][github-repos]! (The fun ones are still a secret through, sorry!)
-- 🌱 I'm currently learning how to build and maintain my own homelab for development, IoT experimentation, and data storage purposes!
-- 🎨 I'm looking to collaborate with other content creators.
-- 🏁 2020 Goals: Join a fast-paced and ambitious dev team!
-- 🏆 Fun facts: I'm a competitive weightlifter, plant dad, and a former physics teacher.
+- 🍌  I'm currently working on several [personal projects][github-repos]! (The fun ones are still a secret through, sorry!)
+- 🌱  I'm currently learning how to build and maintain my own homelab for development, IoT experimentation, and data storage purposes!
+- 🎨  I'm looking to collaborate with other content creators.
+- 🏁  2020 Goals: Join a fast-paced and ambitious dev team!
+- 🏆  Fun facts: I'm a competitive weightlifter, plant dad, and a former physics teacher.
 
 ---
 

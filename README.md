@@ -12,12 +12,13 @@
 
 ### Connect with me here:
 
-[<img align="left" alt="connor@codewithconnor.com" width="35px" src="https://simpleicons.org/icons/gmail.svg" />](mailto:connor@codewithconnor.com)
-[<img align="left" alt="codewithconnor.com" width="35px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="connor-dillon | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="_connorDillon | Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="_connor_dillon | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="dillpickles | Keybase" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keybase.svg" />][keybase]
+[<img align="left" alt="connor@codewithconnor.com" src="https://img.shields.io/badge/Contact%20Me-via%20Email-00dd00?style=for-the-badge&logo=gmail" />](mailto:connor@codewithconnor.com)
+<!--[<img align="left" alt="codewithconnor.com" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
+[<img align="left" alt="connor-dillon | LinkedIn" src="https://img.shields.io/badge/LinkedIn-connor--dillon-0077b5?style=for-the-badge&logo=linkedin" />][linkedin]
+[<img align="left" alt="_connorDillon | Twitter" src="https://img.shields.io/badge/Twitter-__connorDillon-1DA1F2?style=for-the-badge&logo=twitter" />][twitter]
+[<img align="left" alt="dillpickles | Keybase" src="https://img.shields.io/badge/Keybase-Dillpickles-ff6f21?style=for-the-badge&logo=keybase" />][keybase]
+[<img align="left" alt="connoro7 | Dev.to" src="https://img.shields.io/badge/Blog-Dev.to-7b78ff?style=for-the-badge" />][dev.to]
+
 
 <br>
 
@@ -101,5 +102,6 @@
 [instagram]: https://instagram.com/_connor_dillon
 [linkedin]: https://www.linkedin.com/in/connor-dillon/
 [keybase]: https://keybase.io/dillpickles
+[dev.to]: https://dev.to/connoro7
 [github-repos]: https://github.com/connoro7?tab=repositories&type=source
 [placeholder]: #

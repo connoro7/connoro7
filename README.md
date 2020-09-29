@@ -18,7 +18,6 @@
 <!--[<img align="left" alt="codewithconnor.com" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img alt="_connorDillon | Twitter" src="https://img.shields.io/badge/Twitter-__connorDillon-1DA1F2?style=for-the-badge&logo=twitter" />][twitter]
 [<img alt="dillpickles | Keybase" src="https://img.shields.io/badge/Keybase-Dillpickles-ff6f21?style=for-the-badge&logo=keybase" />][keybase]-->
-<br>
 
 ---
 

@@ -79,6 +79,8 @@
 
 ### Latest Blog Posts ![Blog Post Updates](https://github.com/connoro7/connoro7/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
+[<img alt="connoro7 | Dev.to" src="https://img.shields.io/badge/Blog-Dev.to-7b78ff?style=for-the-badge" />][dev.to]
+
 <!-- BLOG-POST-LIST:START -->
 - [5 Wonderful Javascript Tricks](https://dev.to/connoro7/5-wonderful-javascript-tricks-436d)
 - [Async vs. Defer JS Functions](https://dev.to/connoro7/async-vs-defer-js-functions-59k9)

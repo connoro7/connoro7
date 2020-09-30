@@ -82,6 +82,7 @@
 [<img alt="connoro7 | Dev.to" src="https://img.shields.io/badge/Go%20to:-Dev.to%20Blog-7b78ff?style=for-the-badge" />][dev.to]
 
 <!-- BLOG-POST-LIST:START -->
+- [Supercharge Your Vim](https://dev.to/connoro7/supercharge-your-vim-25mn)
 - [5 Wonderful Javascript Tricks](https://dev.to/connoro7/5-wonderful-javascript-tricks-436d)
 - [Async vs. Defer JS Functions](https://dev.to/connoro7/async-vs-defer-js-functions-59k9)
 - [`wget` God Mode](https://dev.to/connoro7/wget-god-mode-441f)
@@ -91,7 +92,6 @@
 - [Error Handling With Fetch](https://dev.to/connoro7/error-handling-with-fetch-1caj)
 - [Debugging Pattern: "ControllerID"](https://dev.to/connoro7/debugging-pattern-controllerid-49nl)
 - [Sass Setup and Basic Use](https://dev.to/connoro7/sass-setup-and-basic-use-2830)
-- [REST APIs & HTTP Requests](https://dev.to/connoro7/rest-apis-http-requests-2efl)
 <!-- BLOG-POST-LIST:END -->
 
 [email]: connor@codewithconnor.com

@@ -12,12 +12,9 @@
 
 ### Connect with me here:
 
-[<img alt="connor@codewithconnor.com" align="center" src="https://img.shields.io/badge/Contact%20Me-via%20Email-00dd00?style=for-the-badge&logo=gmail" />](mailto:connor@codewithconnor.com)
-[<img alt="connor-dillon | LinkedIn" align="center" src="https://img.shields.io/badge/LinkedIn-connor--dillon-0077b5?style=for-the-badge&logo=linkedin" />][linkedin]
-
-## Check out my how-to guides, write-ups, and articles here:
-
-[<img alt="connoro7 | Dev.to" align="center" src="https://img.shields.io/badge/Blog-Dev.to-7b78ff?style=for-the-badge" />][dev.to]
+[<img alt="connor@codewithconnor.com" src="https://img.shields.io/badge/Contact%20Me-via%20Email-00dd00?style=for-the-badge&logo=gmail" />](mailto:connor@codewithconnor.com)
+[<img alt="connor-dillon | LinkedIn" src="https://img.shields.io/badge/LinkedIn-connor--dillon-0077b5?style=for-the-badge&logo=linkedin" />][linkedin]
+[<img alt="connoro7 | Dev.to" src="https://img.shields.io/badge/Blog-Dev.to-7b78ff?style=for-the-badge" />][dev.to]
 
 <!--[<img align="left" alt="codewithconnor.com" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img alt="_connorDillon | Twitter" src="https://img.shields.io/badge/Twitter-__connorDillon-1DA1F2?style=for-the-badge&logo=twitter" />][twitter]

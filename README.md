@@ -6,7 +6,7 @@
 - 🌱  I'm currently learning how to build and maintain my own homelab for development, IoT experimentation, and data storage purposes!
 - 🎨  I'm looking to collaborate with other content creators.
 - 🏁  2020 Goals: Join a fast-paced and ambitious dev team!
-- 🏆  Fun facts: I'm a competitive weightlifter, plant dad, and a former physics teacher.
+- 🏆  Fun facts: I'm a competitive weightlifter, plant dad, fire dancer, and former physics teacher!
 
 ---
 

@@ -24,44 +24,40 @@
 
 ### Languages and Tools
 
-[<img align="left" style="padding: 10px;" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]([placeholder])
-[<img align="left" style="padding: 10px;" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]([placeholder])
-[<img align="left" style="padding: 10px;" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]([placeholder])
-[<img align="left" style="padding: 10px;" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />]([placeholder])
-[<img align="left" style="padding: 10px;" alt="Tailwind" width="26px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">]([placeholder])
-[<img align="left" style="padding: 10px;" alt="Materialize" width="26px" src="https://cdn.svgporn.com/logos/materializecss.svg" />]([placeholder])
-[<img align="left" style="padding: 10px;" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]([placeholder])
-[<img align="left" style="padding: 10px;" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />]([placeholder])
-[<img align="left" style="padding: 10px;" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]([placeholder])
-[<img align="left" style="padding: 10px;" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />]([placeholder])
-[<img align="left" style="padding: 10px;" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />]([placeholder])
-[<img align="left" style="padding: 10px;" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]([placeholder])
-[<img align="left" style="padding: 10px;" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />]([placeholder])
-[<img align="left" style="padding: 10px;" alt="npm" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />]([placeholder])
-[<img align="left" style="padding: 10px;" alt="Yarn" width="26px" src="https://cdn.svgporn.com/logos/yarn.svg" />]([placeholder])
-[<img align="left" style="padding: 10px;" alt="Babel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/babel/babel.png" />]([placeholder])
-[<img align="left" style="padding: 10px;" alt="Webpack" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />]([placeholder])
-[<img align="left" style="padding: 10px;" alt="jquery" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />]([placeholder])
-[<img align="left" style="padding: 10px;" alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />]([placeholder])
-[<img align="left" style="padding: 10px;" alt="MongoDB" width="26px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />]([placeholder])
-[<img align="left" style="padding: 10px;" alt="Heroku" width="26px" src="https://cdn.svgporn.com/logos/heroku-icon.svg" />]([placeholder])
-<!--[<img align="left" style="padding: 10px;" alt="Wordpress" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />]([placeholder])-->
-[<img align="left" style="padding: 10px;" alt="Visual Studio Code" width="26px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">]([placeholder])
-[<img align="left" style="padding: 10px;" alt="vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />]([placeholder])
-[<img align="left" style="padding: 10px;" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />]([placeholder])
-[<img align="left" style="padding: 10px;" alt="Terminal" width="26px" src="https://cdn.svgporn.com/logos/terminal.svg" />]([placeholder])
-[<img align="left" style="padding: 10px;" alt="Bash" width="26px" src="https://cdn.svgporn.com/logos/bash.svg" />]([placeholder])
-[<img align="left" style="padding: 10px;" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]([placeholder])
-[<img align="left" style="padding: 10px;" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]([placeholder])
-[<img align="left" style="padding: 10px;" alt="sourcetree" width="26px" src="https://cdn.svgporn.com/logos/sourcetree.svg" />]([placeholder])
-[<img align="left" style="padding: 10px;" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />]([placeholder])
-[<img align="left" style="padding: 10px;" alt="Debian" width="26px" src="https://cdn.svgporn.com/logos/debian.svg" />]([placeholder])
-[<img align="left" style="padding: 10px;" alt="Raspbian" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />]([placeholder])
-[<img align="left" style="padding: 10px;" alt="OAuth" width="26px" src="https://cdn.svgporn.com/logos/oauth.svg" />]([placeholder])
-<!--[<img align="left" style="padding: 10px;" alt="Slack" width="26px" src="https://cdn.svgporn.com/logos/slack-icon.svg" />]([placeholder])-->
-<!--[<img align="left" style="padding: 10px;" alt="Trello" width="26px" src="https://cdn.svgporn.com/logos/trello.svg" />]([placeholder])-->
-<!--[<img align="left" style="padding: 10px;" alt="Wakatime" width="26px" src="https://cdn.svgporn.com/logos/wakatime.svg" />]([placeholder])-->
-[<img align="left" style="padding: 10px;" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />]([placeholder])
+<img align="left" style="padding: 10px;" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" style="padding: 10px;" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" style="padding: 10px;" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" style="padding: 10px;" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+<img align="left" style="padding: 10px;" alt="Tailwind" width="26px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
+<img align="left" style="padding: 10px;" alt="Materialize" width="26px" src="https://cdn.svgporn.com/logos/materializecss.svg" />
+<img align="left" style="padding: 10px;" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" style="padding: 10px;" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+<img align="left" style="padding: 10px;" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" style="padding: 10px;" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
+<img align="left" style="padding: 10px;" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+<img align="left" style="padding: 10px;" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" style="padding: 10px;" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
+<img align="left" style="padding: 10px;" alt="npm" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
+<img align="left" style="padding: 10px;" alt="Yarn" width="26px" src="https://cdn.svgporn.com/logos/yarn.svg" />
+<img align="left" style="padding: 10px;" alt="Babel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/babel/babel.png" />
+<img align="left" style="padding: 10px;" alt="Webpack" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
+<img align="left" style="padding: 10px;" alt="jquery" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
+<img align="left" style="padding: 10px;" alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />
+<img align="left" style="padding: 10px;" alt="MongoDB" width="26px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
+<img align="left" style="padding: 10px;" alt="Heroku" width="26px" src="https://cdn.svgporn.com/logos/heroku-icon.svg" />
+<img align="left" style="padding: 10px;" alt="Visual Studio Code" width="26px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+<img align="left" style="padding: 10px;" alt="vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
+<img align="left" style="padding: 10px;" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />
+<img align="left" style="padding: 10px;" alt="Terminal" width="26px" src="https://cdn.svgporn.com/logos/terminal.svg" />
+<img align="left" style="padding: 10px;" alt="Bash" width="26px" src="https://cdn.svgporn.com/logos/bash.svg" />
+<img align="left" style="padding: 10px;" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" style="padding: 10px;" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" style="padding: 10px;" alt="sourcetree" width="26px" src="https://cdn.svgporn.com/logos/sourcetree.svg" />
+<img align="left" style="padding: 10px;" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+<img align="left" style="padding: 10px;" alt="Debian" width="26px" src="https://cdn.svgporn.com/logos/debian.svg" />
+<img align="left" style="padding: 10px;" alt="Raspbian" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />
+<img align="left" style="padding: 10px;" alt="OAuth" width="26px" src="https://cdn.svgporn.com/logos/oauth.svg" />
+<img align="left" style="padding: 10px;" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 
 <br>
 <br>

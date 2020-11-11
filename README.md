@@ -6,7 +6,7 @@
 - 🌱  I'm currently learning how to build and maintain my own homelab for development, IoT experimentation, and data storage purposes!
 - 🎨  I'm looking to collaborate with other content creators.
 - 🏁  2020 Goals: Join a fast-paced and ambitious dev team!
-- 🏆  Fun facts: I'm a competitive weightlifter, plant dad, fire dancer, and former physics teacher!
+- 🏆  Fun facts: I'm a competitive weightlifter, plant dad, fire dancer, flow artist, and former physics teacher!
 
 ---
 
@@ -104,4 +104,4 @@
 [keybase]: https://keybase.io/dillpickles
 [dev.to]: https://dev.to/connoro7
 [github-repos]: https://github.com/connoro7?tab=repositories&type=source
-[placeholder]: #
+[placeholder]: https://github.com/connoro7

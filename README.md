@@ -2,12 +2,12 @@
 
 ## I'm a physicist by education, developer by trade, and adventurer by passion!
 
-- 🍌&nbsp;&nbsp;I'm currently working on several [personal projects][github-repos]! (The fun ones are still a secret through, sorry!)
-- 🌱&nbsp;&nbsp;I'm currently learning how to build and maintain my own homelab for development, IoT experimentation, and data storage purposes!
-- 🎨&nbsp;&nbsp;I'm looking to collaborate with other content creators.
-- 🏁&nbsp;&nbsp;2020 Goals: Join a fast-paced and ambitious dev team!
-- 🔭&nbsp;I studied physics and mathematics at the University of Washington and conducted research on spacetime topology and black hole thermodynamics. Curious? Just ask! I absolutely **LOVE** talking about space. I also worked with UW's Physics Education Group, teaching everything from Newtonian mechanics to special relativity.
-- 🔥&nbsp;&nbsp;In my free time, I'm a fire performer! I love putting on shows, dancing with my poi, and breathing fire!
+- 🍌&nbsp;&nbsp;&nbsp;&nbsp;I'm currently working on several [personal projects][github-repos]! (The fun ones are still a secret through, sorry!)
+- 🌱&nbsp;&nbsp;&nbsp;&nbsp;I'm currently learning how to build and maintain my own homelab for development, IoT experimentation, and data storage purposes!
+- 🎨&nbsp;&nbsp;&nbsp;&nbsp;I'm looking to collaborate with other content creators.
+- 🏁&nbsp;&nbsp;&nbsp;&nbsp;2020 Goals: Join a fast-paced and ambitious dev team!
+- 🔭&nbsp;&nbsp;&nbsp;&nbsp;I studied physics and mathematics at the University of Washington and conducted research on spacetime topology and black hole thermodynamics. Curious? Just ask! I absolutely **LOVE** talking about space. I also worked with UW's Physics Education Group, teaching everything from Newtonian mechanics to special relativity.
+- 🔥&nbsp;&nbsp;&nbsp;&nbsp;In my free time, I'm a fire performer! I love putting on shows, dancing with my poi, and breathing fire!
 
 ---
 

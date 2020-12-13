@@ -6,19 +6,35 @@
 - 🌱  I'm currently learning how to build and maintain my own homelab for development, IoT experimentation, and data storage purposes!
 - 🎨  I'm looking to collaborate with other content creators.
 - 🏁  2020 Goals: Join a fast-paced and ambitious dev team!
-- 🏆  Fun facts: I'm a competitive weightlifter, plant dad, fire dancer, flow artist, and former physics teacher!
+- 🔭  I studied physics and mathematics at the University of Washington and conducted research on spacetime topology and black hole thermodynamics. Curious? Just ask! I absolutely **LOVE** talking about space. I also worked with UW's Physics Education Group, teaching everything from Newtonian mechanics to special relativity.
+- 🔥  In my free time, I'm a fire performer! I love putting on shows, dancing with my poi, and breathing fire!
 
 ---
 
 ### Connect with me here:
 
-[<img alt="connor@codewithconnor.com" src="https://img.shields.io/badge/Contact%20Me-via%20Email-00dd00?style=for-the-badge&logo=gmail" />](mailto:connor@codewithconnor.com)
+[<img alt="connor@connordillon.dev" src="https://img.shields.io/badge/Contact%20Me-via%20Email-00dd00?style=for-the-badge&logo=gmail" />](mailto:connor@connordillon.dev)
 [<img alt="connor-dillon | LinkedIn" src="https://img.shields.io/badge/LinkedIn-connor--dillon-0077b5?style=for-the-badge&logo=linkedin" />][linkedin]
 [<img alt="connoro7 | Dev.to" src="https://img.shields.io/badge/Blog-Dev.to-7b78ff?style=for-the-badge" />][dev.to]
 
-<!--[<img align="left" alt="codewithconnor.com" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img alt="_connorDillon | Twitter" src="https://img.shields.io/badge/Twitter-__connorDillon-1DA1F2?style=for-the-badge&logo=twitter" />][twitter]
-[<img alt="dillpickles | Keybase" src="https://img.shields.io/badge/Keybase-Dillpickles-ff6f21?style=for-the-badge&logo=keybase" />][keybase]-->
+---
+
+### Latest Blog Posts ![Blog Post Updates](https://github.com/connoro7/connoro7/workflows/Latest%20blog%20post%20workflow/badge.svg)
+
+[<img alt="connoro7 | Dev.to" src="https://img.shields.io/badge/Go%20to:-Dev.to%20Blog-7b78ff?style=for-the-badge" />][dev.to]
+
+<!-- BLOG-POST-LIST:START -->
+- [Supercharge Your Vim](https://dev.to/connoro7/supercharge-your-vim-25mn)
+- [5 Wonderful Javascript Tricks](https://dev.to/connoro7/5-wonderful-javascript-tricks-436d)
+- [Async vs. Defer JS Functions](https://dev.to/connoro7/async-vs-defer-js-functions-59k9)
+- [`wget` God Mode](https://dev.to/connoro7/wget-god-mode-441f)
+- [Regular Expressions in 1 Minute](https://dev.to/connoro7/regular-expressions-in-1-minute-57f5)
+- [Hosting an Application on Heroku in 7 Steps](https://dev.to/connoro7/hosting-an-application-on-heroku-in-7-steps-3h9k)
+- [Merging Local Git Branches](https://dev.to/connoro7/merging-local-git-branches-4bc5)
+- [Error Handling With Fetch](https://dev.to/connoro7/error-handling-with-fetch-1caj)
+- [Debugging Pattern: "ControllerID"](https://dev.to/connoro7/debugging-pattern-controllerid-49nl)
+- [Sass Setup and Basic Use](https://dev.to/connoro7/sass-setup-and-basic-use-2830)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -72,24 +88,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=connoro7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-### Latest Blog Posts ![Blog Post Updates](https://github.com/connoro7/connoro7/workflows/Latest%20blog%20post%20workflow/badge.svg)
-
-[<img alt="connoro7 | Dev.to" src="https://img.shields.io/badge/Go%20to:-Dev.to%20Blog-7b78ff?style=for-the-badge" />][dev.to]
-
-<!-- BLOG-POST-LIST:START -->
-- [Supercharge Your Vim](https://dev.to/connoro7/supercharge-your-vim-25mn)
-- [5 Wonderful Javascript Tricks](https://dev.to/connoro7/5-wonderful-javascript-tricks-436d)
-- [Async vs. Defer JS Functions](https://dev.to/connoro7/async-vs-defer-js-functions-59k9)
-- [`wget` God Mode](https://dev.to/connoro7/wget-god-mode-441f)
-- [Regular Expressions in 1 Minute](https://dev.to/connoro7/regular-expressions-in-1-minute-57f5)
-- [Hosting an Application on Heroku in 7 Steps](https://dev.to/connoro7/hosting-an-application-on-heroku-in-7-steps-3h9k)
-- [Merging Local Git Branches](https://dev.to/connoro7/merging-local-git-branches-4bc5)
-- [Error Handling With Fetch](https://dev.to/connoro7/error-handling-with-fetch-1caj)
-- [Debugging Pattern: "ControllerID"](https://dev.to/connoro7/debugging-pattern-controllerid-49nl)
-- [Sass Setup and Basic Use](https://dev.to/connoro7/sass-setup-and-basic-use-2830)
-<!-- BLOG-POST-LIST:END -->
 
 [email]: connor@codewithconnor.com
 [website]: https://connoro7.github.io/codewithconnor/

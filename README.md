@@ -2,12 +2,12 @@
 
 ## I'm a physicist by education, developer by trade, and adventurer by passion!
 
-- 🍌  I'm currently working on several [personal projects][github-repos]! (The fun ones are still a secret through, sorry!)
-- 🌱  I'm currently learning how to build and maintain my own homelab for development, IoT experimentation, and data storage purposes!
-- 🎨  I'm looking to collaborate with other content creators.
-- 🏁  2020 Goals: Join a fast-paced and ambitious dev team!
-- 🔭  I studied physics and mathematics at the University of Washington and conducted research on spacetime topology and black hole thermodynamics. Curious? Just ask! I absolutely **LOVE** talking about space. I also worked with UW's Physics Education Group, teaching everything from Newtonian mechanics to special relativity.
-- 🔥  In my free time, I'm a fire performer! I love putting on shows, dancing with my poi, and breathing fire!
+- 🍌&nbsp;&nbsp;I'm currently working on several [personal projects][github-repos]! (The fun ones are still a secret through, sorry!)
+- 🌱&nbsp;&nbsp;I'm currently learning how to build and maintain my own homelab for development, IoT experimentation, and data storage purposes!
+- 🎨&nbsp;&nbsp;I'm looking to collaborate with other content creators.
+- 🏁&nbsp;&nbsp;2020 Goals: Join a fast-paced and ambitious dev team!
+- 🔭&nbsp;I studied physics and mathematics at the University of Washington and conducted research on spacetime topology and black hole thermodynamics. Curious? Just ask! I absolutely **LOVE** talking about space. I also worked with UW's Physics Education Group, teaching everything from Newtonian mechanics to special relativity.
+- 🔥&nbsp;&nbsp;In my free time, I'm a fire performer! I love putting on shows, dancing with my poi, and breathing fire!
 
 ---
 
@@ -19,9 +19,9 @@
 
 ---
 
-### Latest Blog Posts ![Blog Post Updates](https://github.com/connoro7/connoro7/workflows/Latest%20blog%20post%20workflow/badge.svg)
+### Latest Blog Posts 
 
-[<img alt="connoro7 | Dev.to" src="https://img.shields.io/badge/Go%20to:-Dev.to%20Blog-7b78ff?style=for-the-badge" />][dev.to]
+<!--[<img alt="connoro7 | Dev.to" src="https://img.shields.io/badge/Go%20to:-Dev.to%20Blog-7b78ff?style=for-the-badge" />][dev.to]-->
 
 <!-- BLOG-POST-LIST:START -->
 - [Supercharge Your Vim](https://dev.to/connoro7/supercharge-your-vim-25mn)
@@ -36,6 +36,7 @@
 - [Sass Setup and Basic Use](https://dev.to/connoro7/sass-setup-and-basic-use-2830)
 <!-- BLOG-POST-LIST:END -->
 
+![Blog Post Updates](https://github.com/connoro7/connoro7/workflows/Latest%20blog%20post%20workflow/badge.svg)
 ---
 
 ### Languages and Tools

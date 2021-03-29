@@ -26,7 +26,6 @@
 <!-- BLOG-POST-LIST:START -->
 - [Supercharge Your Vim](https://dev.to/connoro7/supercharge-your-vim-25mn)
 - [5 Wonderful Javascript Tricks](https://dev.to/connoro7/5-wonderful-javascript-tricks-436d)
-- [Async vs. Defer JS Functions](https://dev.to/connoro7/async-vs-defer-js-functions-59k9)
 - [`wget` God Mode](https://dev.to/connoro7/wget-god-mode-441f)
 - [Regular Expressions in 1 Minute](https://dev.to/connoro7/regular-expressions-in-1-minute-57f5)
 - [Hosting an Application on Heroku in 7 Steps](https://dev.to/connoro7/hosting-an-application-on-heroku-in-7-steps-3h9k)
@@ -34,6 +33,7 @@
 - [Error Handling With Fetch](https://dev.to/connoro7/error-handling-with-fetch-1caj)
 - [Debugging Pattern: "ControllerID"](https://dev.to/connoro7/debugging-pattern-controllerid-49nl)
 - [Sass Setup and Basic Use](https://dev.to/connoro7/sass-setup-and-basic-use-2830)
+- [REST APIs & HTTP Requests](https://dev.to/connoro7/rest-apis-http-requests-2efl)
 <!-- BLOG-POST-LIST:END -->
 
 ![Blog Post Updates](https://github.com/connoro7/connoro7/workflows/Latest%20blog%20post%20workflow/badge.svg)

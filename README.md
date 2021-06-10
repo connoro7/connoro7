@@ -1,6 +1,6 @@
 ### Hey there! I'm Connor (aka [connoro7][github]) 👋
 
-## I'm a physicist by education, developer by trade, and adventurer by passion!
+## I'm a physicist by education, software engineer by trade, and fire artist by passion!
 
 - 🍌&nbsp;&nbsp;&nbsp;I'm currently working on several [personal projects][github-repos]! (The fun ones are still a secret through, sorry!)
 - 🌱&nbsp;&nbsp;&nbsp;I'm currently learning how to build and maintain my own homelab for development, IoT experimentation, and data storage purposes!

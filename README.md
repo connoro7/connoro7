@@ -31,9 +31,9 @@
 - [Hosting an Application on Heroku in 7 Steps](https://dev.to/connoro7/hosting-an-application-on-heroku-in-7-steps-3h9k)
 - [Merging Local Git Branches](https://dev.to/connoro7/merging-local-git-branches-4bc5)
 - [Error Handling With Fetch](https://dev.to/connoro7/error-handling-with-fetch-1caj)
-- [Debugging Pattern: "ControllerID"](https://dev.to/connoro7/debugging-pattern-controllerid-49nl)
+- [Debugging Pattern: &quot;ControllerID&quot;](https://dev.to/connoro7/debugging-pattern-controllerid-49nl)
 - [Sass Setup and Basic Use](https://dev.to/connoro7/sass-setup-and-basic-use-2830)
-- [REST APIs & HTTP Requests](https://dev.to/connoro7/rest-apis-http-requests-2efl)
+- [REST APIs &amp; HTTP Requests](https://dev.to/connoro7/rest-apis-http-requests-2efl)
 <!-- BLOG-POST-LIST:END -->
 
 ![Blog Post Updates](https://github.com/connoro7/connoro7/workflows/Latest%20blog%20post%20workflow/badge.svg)

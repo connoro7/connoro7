@@ -1,13 +1,14 @@
 ### Hey there! I'm Connor (aka [connoro7][github]) 👋
 
-## I'm a physicist by education, software engineer by trade, and fire artist by passion!
+## I'm an astrophysicist, software engineer, metal fabricator, welder, and fire dancer!
 
-- 🍌&nbsp;&nbsp;&nbsp;I'm currently working on several [personal projects][github-repos]! (The fun ones are still a secret through, sorry!)
+- 🍌&nbsp;&nbsp;&nbsp;I'm currently working on several [personal projects][github-repos]!
 - 🌱&nbsp;&nbsp;&nbsp;I'm currently learning how to build and maintain my own homelab for development, IoT experimentation, and data storage purposes!
 - 🎨&nbsp;&nbsp;&nbsp;I'm looking to collaborate with other content creators.
-- 🏁&nbsp;&nbsp;&nbsp;2021 Goals: Join a fast-paced and ambitious dev team!
-- 🔭&nbsp;&nbsp;&nbsp;I studied physics and mathematics at the University of Washington and conducted research on spacetime topology and black hole thermodynamics. Curious? Just ask! I love talking about space.
-- 🔥&nbsp;&nbsp;&nbsp;In my free time, I'm a fire performer! I love putting on shows, dancing with my poi, and breathing fire!
+- 🏁&nbsp;&nbsp;&nbsp;2022 Q4 Goals: Migrate my technical blog to my personal site [connordillon.dev](connordillon.dev) and then redeploy it!
+- - 🏁&nbsp;&nbsp;&nbsp;2023 Q1 Goals: Attend a full-stack immersive software engineering bootcamp!
+- 🔭&nbsp;&nbsp;&nbsp;I studied physics and mathematics at the University of Washington and conducted research on spacetime topology and black hole thermodynamics. Curious? Just ask, it's a great way to break the ice!
+- 🔥&nbsp;&nbsp;&nbsp;In my free time, I'm a fire performer! I love putting on shows, dancing with fire, and bringing people together to commune with one of our most ancient and primal tools!
 
 ---
 
@@ -19,7 +20,7 @@
 
 ---
 
-### Latest Blog Posts 
+### Latest Blog Posts
 
 <!--[<img alt="connoro7 | Dev.to" src="https://img.shields.io/badge/Go%20to:-Dev.to%20Blog-7b78ff?style=for-the-badge" />][dev.to]-->
 
@@ -90,8 +91,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=connoro7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[email]: connor@codewithconnor.com
-[website]: https://connoro7.github.io/codewithconnor/
+[email]: connor@connordillon.dev
+[website]: https://connordillon.dev
 [github]: https://github.com/connoro7
 [twitter]: https://twitter.com/_connorDillon
 [instagram]: https://instagram.com/_connor_dillon

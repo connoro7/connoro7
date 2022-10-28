@@ -2,12 +2,13 @@
 
 ## I'm an astrophysicist, software engineer, metal fabricator, welder, and fire dancer!
 
-- 🍌&nbsp;&nbsp;&nbsp;I'm currently working on several [personal projects][github-repos]!
-- 🌱&nbsp;&nbsp;&nbsp;I'm currently learning how to build and maintain my own homelab for development, IoT experimentation, and data storage purposes!
+- 🍌&nbsp;&nbsp;&nbsp;I'm currently working on several [personal projects][github-repos]! Currently, I'm writing a website-blocker extension for Chrome!
+- 🌱&nbsp;&nbsp;&nbsp;I want to learn more about machine learning and AI - data science is a passion-project that's on the horizon for me.
 - 🎨&nbsp;&nbsp;&nbsp;I'm looking to collaborate with other content creators.
 - 🏁&nbsp;&nbsp;&nbsp;2022 Q4 Goals: Migrate my technical blog to my personal site [connordillon.dev](connordillon.dev) and then redeploy it!
-- - 🏁&nbsp;&nbsp;&nbsp;2023 Q1 Goals: Attend a full-stack immersive software engineering bootcamp!
-- 🔭&nbsp;&nbsp;&nbsp;I studied physics and mathematics at the University of Washington and conducted research on spacetime topology and black hole thermodynamics. Curious? Just ask, it's a great way to break the ice!
+- 🏁&nbsp;&nbsp;&nbsp;2023 Q1 Goals: Attend a full-stack immersive software engineering bootcamp!
+- 🏁&nbsp;&nbsp;&nbsp;2023 Q2 Goals: Join a fast-paced dev team where I can meaningfully contribute while further honing my many diverse skills!
+- 🔭&nbsp;&nbsp;&nbsp;I studied astrophysics and researched spacetime topology and black hole thermodynamics at the University of Washington. Want to have your mind blown by crazy space facts? Just ask! It's a great way to break the ice!
 - 🔥&nbsp;&nbsp;&nbsp;In my free time, I'm a fire performer! I love putting on shows, dancing with fire, and bringing people together to commune with one of our most ancient and primal tools!
 
 ---

@@ -2,7 +2,7 @@
 
 ## I'm an astrophysicist, software engineer, metal fabricator, welder, and fire dancer!
 
-- 🍌&nbsp;&nbsp;&nbsp;I'm currently working on several [personal projects][github-repos]! Currently, I'm writing a website-blocker extension for Chrome!
+- 🍌&nbsp;&nbsp;&nbsp;I'm concurrently working on several [personal projects][github-repos]! Currently, most of my focus is on writing a productivity extension for Chrome!
 - 🌱&nbsp;&nbsp;&nbsp;I want to learn more about machine learning and AI - data science is a passion-project that's on the horizon for me.
 - 🎨&nbsp;&nbsp;&nbsp;I'm looking to collaborate with other content creators.
 - 🏁&nbsp;&nbsp;&nbsp;2022 Q4 Goals: Migrate my technical blog to my personal site [connordillon.dev](connordillon.dev) and then redeploy it!

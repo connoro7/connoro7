@@ -89,7 +89,7 @@
 
 <img align="left" style="padding: 10px;" alt="connoro7's Github Stats" src="https://github-readme-stats-connoro7.vercel.app/api?username=connoro7&show_icons=true&hide_border=true&hide=stars&count_private=true&theme=default" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=connoro7&layout=compact)](https://github.com/connoro7/github-readme-stats)
+[![Top Langs](https://github-readme-stats-connoro7.vercel.app/api/top-langs/?username=connoro7&layout=compact)](https://github.com/connoro7/github-readme-stats)
 
 
 [email]: connor@connordillon.dev

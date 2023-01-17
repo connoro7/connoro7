@@ -10,7 +10,7 @@
 
 <div align="center">
 <p>
-✨ <a href="https://connordillon.dev" target="blank"><img align="center" alt="connordillon.dev" src="https://img.shields.io/badge/View%20My-Portfolio-00dd00?style=for-the-badge&color=C4FAF8&labelColor=C5A3FF&logo=quicklook&logoColor=C4FAF8"/></a> ✨
+✨ <a href="https://connordillon.dev" target="blank"><img align="center" alt="connordillon.dev" src="https://img.shields.io/badge/View%20My-Portfolio-00dd00?style=for-the-badge&color=C4FAF8&labelColor=C5A3FF&logo=quicklook&logoColor=000000"/></a> ✨
   
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/connor-dillon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/connor-dillon/" height="30" width="40" /></a>
   <a href="https://twitter.com/_connordillon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_connordillon" height="30" width="40" /></a>

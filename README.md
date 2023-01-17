@@ -10,7 +10,7 @@
 
 <div align="center">
 <p>
-✨ <a href="mailto:connor@connordillon.dev" target="blank"><img align="center" alt="connor@connordillon.dev" src="https://img.shields.io/badge/Contact%20Me-via%20Email-00dd00?style=for-the-badge&logo=gmail" /></a> ✨
+✨ <a href="https://connordillon.dev" target="blank"><img align="center" alt="connordillon.dev" src="https://img.shields.io/badge/View%20My-Portfolio-00dd00?style=for-the-badge&color=C4FAF8&labelColor=C5A3FF&logo=quicklook&logoColor=C4FAF8"/></a> ✨
   
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/connor-dillon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/connor-dillon/" height="30" width="40" /></a>
   <a href="https://twitter.com/_connordillon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_connordillon" height="30" width="40" /></a>
@@ -30,15 +30,15 @@
 
 - 🤝 I’m looking for help with [my modular e-commerce platform](https://github.com/connoro7/exportdefault.shop).
 
-- 👨‍💻 All of my projects are available [on my portfolio site](connordillon.dev/portfolio).
+- 👨‍💻 All of my projects are available [on my portfolio site](https://connordillon.dev/portfolio).
 
-- 📝 You can find my technical writing on my [personal blog](connordillon.dev/blog).
+- 📝 You can find my technical writing on my [personal blog](https://connordillon.dev/blog).
 
 - 💬 Ask me about **my experiences traveling all over the world for my e-commerce business!**
 
 - 📫 You can reach me at **connor@connordillon.dev**
 
-- 📄 Learn more about my experiences [with my resume](connordillon.dev/resume).
+- 📄 Learn more about my experiences [with my resume](https://connordillon.dev/resume).
 
 - ⚡ Fun fact **I'm a fire performer! I love bringing people together to commune with humanity's most ancient and sacred tool!**
 

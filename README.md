@@ -1,7 +1,8 @@
 <!-- whitelisted html tags and attributes: https://gist.github.com/kivikakk/622b5dcf395e26c49e2334f0eb19e6f9 -->
 <!-- github readme stats documentation: https://github.com/anuraghazra/github-readme-stats -->
 
-<h1 align="center">Aloha 🌱 I'm Connor!</h1>
+<h1 align="center">Greetings, fellow human 🌱 I'm Connor!</h1>
+<p align="center" >0100000101110010011101000110100101100110011010010110001101101001011000010110110000100000011010010110111001110100011001010110110001101100011010010110011101100101011011100110001101100101001000000111001001100101011000110110111101100111011011100110100101111010011001010110010000101100001000000100001101010001001000000011100000111000</p>
 <h3 align="center">I'm an astrophysicist, software engineer, and fire dancer!</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=connoro7" alt="connoro7" /></a> </p>

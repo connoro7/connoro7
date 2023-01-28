@@ -18,7 +18,8 @@
 
 <div>
 <pre>
-Hi, my name is Connor and I'm a Seattle based astrophysicist, software developer, fire dancer, and metal sculptor!
+Hi, my name is Connor and I'm a Seattle based astrophysicist, 
+software developer, fire dancer, and metal sculptor!
                       ,
                        (   `   .         ,&&&&.    ,-Welcome to my GitHub, my portal,
   .&&&,            `    )  ,            ( ^,^&&   /  My code, quite simply immortal.
@@ -37,6 +38,8 @@ MMMMM'-,_>        `'(_ )_)(_)_)'                     So take a look around!
 </pre>
 </div>
 
+---
+
 <!-- Portfolio Badge Link
 TODO: Replace with banner image
 <p>
@@ -45,6 +48,8 @@ TODO: Replace with banner image
 
 
 <!-- <p align="left"> <a href="https://twitter.com/_connordillon" target="blank"><img src="https://img.shields.io/twitter/follow/_connordillon?logo=twitter&style=for-the-badge" alt="_connordillon" /></a> </p> -->
+
+<h3>Some quick facts about me...</h3>
 
 - 🔭 I’m currently working on my [portfolio](https://github.com/connoro7/connordillondevReact).
 

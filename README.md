@@ -20,9 +20,9 @@
 <pre>
 Hi, my name is Connor and I'm a Seattle based astrophysicist, software developer, fire dancer, and metal sculptor!
                       ,
-                       (   `   .         ,&&&&.      Welcome to my GitHub, my portal,
-  .&&&,            `    )  ,            ( ^,^&&      My code, quite simply immortal.
- &&&^,^)               (  (              \_o_/       I serve commits shaken, kept neat,
+                       (   `   .         ,&&&&.    ,-Welcome to my GitHub, my portal,
+  .&&&,            `    )  ,            ( ^,^&&   /  My code, quite simply immortal.
+ &&&^,^)               (  (              \_o_/  -^   I serve commits shaken, kept neat,
 &&\__o/              `     )             ,'-'.       I keep your projects running, not skipping a beat.
 &&.'-'.          ,   (    (  ,,      _.__|/ /|       
 & |\ \|__._      `,   ) /\ -((------((_|___/ |       I'll take on tasks, big and small,

@@ -1,7 +1,7 @@
 <!-- whitelisted html tags and attributes: https://gist.github.com/kivikakk/622b5dcf395e26c49e2334f0eb19e6f9 -->
 <!-- github readme stats documentation: https://github.com/anuraghazra/github-readme-stats -->
 
-<h1 align="center">Ah, another visitor!<br><br>Come, rest that weary keyboard.<br>Let's roast marshmallows while I read you my poetry.</h1>
+<h1 align="center">Ah, another visitor!<br><br>Come, rest that weary keyboard.<br>You're just in time for marshmallows and Github poetry!</h1>
 <div align="center"
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/connor-dillon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/connor-dillon/" height="30" width="40" /></a>
   <a href="https://twitter.com/_connordillon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_connordillon" height="30" width="40" /></a>

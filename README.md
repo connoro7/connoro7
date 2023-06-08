@@ -51,17 +51,15 @@ TODO: Replace with banner image
 
 <h3>Some quick facts about me...</h3>
 
-- 🔭 I’m currently working on my [portfolio](https://github.com/connoro7/connordillondevReact).
+- 🔭 When I'm not working, I'm learning more about Rust, RxJS, Alpine.JS, Next.js, and tRPC in my free time! 
 
-- 👯 I’m looking to collaborate on [extending artificial intelligences](https://github.com/connoro7/ai-image-generator).
+- 👯 I’m currently working on a big release for an exciting open source product... more details coming June - July 2023!
 
-- 🤝 I’m looking for help with [my modular e-commerce platform](https://github.com/connoro7/exportdefault.shop).
+- 🤝 I’m looking for help with [my modular e-commerce platform](https://github.com/connoro7/exportdefault.shop) with adding a UI theme library!
 
 - 👨‍💻 All of my projects are available [on my portfolio site](https://connordillon.dev/portfolio).
 
 - 📝 You can find my technical writing on my [personal blog](https://connordillon.dev/blog).
-
-- 💬 Ask me about **my experiences traveling all over the world for my e-commerce business!**
 
 - 📫 You can reach me at **connor@connordillon.dev**
 

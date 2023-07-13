@@ -18,8 +18,8 @@
 
 <div>
 <pre>
-Hi, my name is Connor and I'm a Seattle based astrophysicist, 
-software developer, fire dancer, and metal sculptor!
+Hi, my name is Connor and I'm a Seattle based software engineer, 
+astrophysicist, fire dancer, and metal sculptor!
                       ,
                        (   `   .         ,&&&&.    ,-Welcome to my GitHub, my portal,
   .&&&,            `    )  ,            ( ^,^&&   /  My code, quite simply immortal.

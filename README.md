@@ -53,7 +53,7 @@ TODO: Replace with banner image
 
 - 🔭 When I'm not working, I'm learning more about Rust, RxJS, Alpine.JS, Next.js, and tRPC in my free time! 
 
-- 👯 I’m currently working on a big release for an exciting open source product... more details coming June - July 2023!
+- 👯 I recently helped release v1.0.0 of a new open source project, Query IQ - visualize SQL query performance metrics! 
 
 - 🤝 I’m looking for help with [my modular e-commerce platform](https://github.com/connoro7/exportdefault.shop) with adding a UI theme library!
 

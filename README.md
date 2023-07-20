@@ -51,19 +51,13 @@ TODO: Replace with banner image
 
 <h3>Some quick facts about me...</h3>
 
-- 🔭 When I'm not working, I'm learning more about Rust, RxJS, Alpine.JS, Next.js, and tRPC in my free time! 
+- 🔭 When I'm not working, I'm learning more about Go, Rust, WebRTC, and tRPC in my free time! 
 
-- 👯 I recently helped release v1.0.0 of a new open source project, Query IQ - visualize SQL query performance metrics! 
+- 👯 I recently helped release v1.0.0 of a new open source project, [Query IQ](https://github.com/oslabs-beta/QueryIQ) - visualize SQL query performance metrics! 
 
 - 🤝 I’m looking for help with [my modular e-commerce platform](https://github.com/connoro7/exportdefault.shop) with adding a UI theme library!
 
-- 👨‍💻 All of my projects are available [on my portfolio site](https://connordillon.dev/portfolio).
-
 - 📝 You can find my technical writing on my [personal blog](https://connordillon.dev/blog).
-
-- 📫 You can reach me at **connor@connordillon.dev**
-
-- 📄 Learn more about my experiences [with my resume](https://connordillon.dev/resume).
 
 - ⚡ Fun fact **I'm a fire performer! I love bringing people together to commune with humanity's most ancient and sacred tool!**
 
